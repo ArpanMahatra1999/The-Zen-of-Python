@@ -1,5 +1,4 @@
 # The-Zen-of-Python
-
 Python code for running "The Zen of Python" by Tim Peters.
 
 Tools used:
